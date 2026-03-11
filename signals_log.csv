@@ -1,0 +1,2 @@
+timestamp,market,price_at_signal,volume,spread,signal,score,signal_type,nhl_position,nhl_points,nhl_win_pct,nhl_playoffs,outcome,exit_price,profit_loss
+2026-03-11 18:23:14,BitBoy convicted?,0.267,80045.39593399972,0.017,BUY — Score: 7 | Type: Sentiment only,7,Sentiment only,,,,,,,
