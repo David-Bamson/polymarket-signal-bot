@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.csv
+*.log
+*.pyc
+portfolio_state.json
